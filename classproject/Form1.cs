@@ -31,5 +31,10 @@ namespace classproject
                 Result.Text = "acceptable range";
             }
         }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+
+        }
     }
 }

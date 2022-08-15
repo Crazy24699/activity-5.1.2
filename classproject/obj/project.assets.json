@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Crazy\\.nuget\\packages\\": {}
+    "C:\\Users\\mattd\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Game design\\visual studio\\classproject\\classproject.csproj",
+      "projectUniqueName": "C:\\Users\\mattd\\OneDrive\\Documents\\Miles to Kilometers Converter\\classproject\\classproject.csproj",
       "projectName": "classproject",
-      "projectPath": "C:\\Game design\\visual studio\\classproject\\classproject.csproj",
-      "packagesPath": "C:\\Users\\Crazy\\.nuget\\packages\\",
-      "outputPath": "C:\\Game design\\visual studio\\classproject\\obj\\",
+      "projectPath": "C:\\Users\\mattd\\OneDrive\\Documents\\Miles to Kilometers Converter\\classproject\\classproject.csproj",
+      "packagesPath": "C:\\Users\\mattd\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mattd\\OneDrive\\Documents\\Miles to Kilometers Converter\\classproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Crazy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mattd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
